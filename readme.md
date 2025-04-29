@@ -65,7 +65,7 @@ Každým ďalším stlačením **BTNC** sa celý cyklus opakuje od prvej tretiny
 - Pomocou **SW4** je možné úplne resetovať skóre na **00:00**.
 - Pri aktivácii a následnej deaktivácii **SW4** sa skóre vynuluje a ukazovateľ skóre je pripravený na nové použitie.
 
-### [Goals_video](./videos/Goals.mp4)
+### [Goals_video](./Videos/Goals.mp4)
 ---
 
 ### Pridávanie presiloviek
