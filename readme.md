@@ -89,7 +89,7 @@ Pridávanie funguje tak, že **musí byť zastavený hlavný časovač** (len vt
 - **BTND** – presilovka pre tím 2
 
 V momente udelenia presilovky **zhasne jedna LED-ka** tímu, ktorý bude hrať v oslabení.  
-Každý tím má 5 LED-iek reprezentujúcich 5 hráčov na ľade. Maximálne môžu zhasnúť 2 LED-ky, keďže na ľade musia byť vždy minimálne traja hráči (plus brankár).
+Každý tím má 5 LED-iek reprezentujúcich 5 hráčov na ľade. Maximálne môžu zhasnúť 2 LED-ky, keďže na ľade musia byť vždy minimálne traja hráči okrem brankára.
 
 Po opätovnom spustení času sa začne odpočítavať čas presilovky, avšak **len ak je hlavný časovač spustený**.
 
