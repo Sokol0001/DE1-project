@@ -22,6 +22,7 @@ Pri spustení dosky je automaticky nastavená **prvá tretina** s trvaním **20 
 ![Tretiny](./Images/Top_photo3.jpg)
 *obr. 1*
 
+
 Prepínanie jednotlivých tretín prebieha stláčaním tlačidla **BTNC** nasledovne:
 - **1. stlačenie** – nastaví **druhú tretinu** (20 minút), signalizovanú **zelenou farbou**.
 - **2. stlačenie** – nastaví **tretiu tretinu** (20 minút), signalizovanú **červenou farbou**.
