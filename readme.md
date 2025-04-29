@@ -19,8 +19,9 @@ Výber aktuálnej hranej tretiny prebieha pomocou tlačidla **BTNC**.
 
 Pri spustení dosky je automaticky nastavená **prvá tretina** s trvaním **20 minút**, ktorá je signalizovaná **modrým svetlom na LED LD16**.
 
-![Tretiny](./Images/Top_photo3.jpg)
+![Tretiny](./Images/Top_photo3.JPG)
 *obr. 1*
+
 
 Prepínanie jednotlivých tretín prebieha stláčaním tlačidla **BTNC** nasledovne:
 - **1. stlačenie** – nastaví **druhú tretinu** (20 minút), signalizovanú **zelenou farbou**.
@@ -33,10 +34,10 @@ Prepínanie jednotlivých tretín prebieha stláčaním tlačidla **BTNC** nasle
 
 Každým ďalším stlačením **BTNC** sa celý cyklus opakuje od prvej tretiny.
 
-### [Tretiny_video](./videos/Thirds.mp4)
+### [Tretiny_video](./Videos/Thirds.mp4)
 ---
 ## Goal Counter
-![Tretiny](./Images/Top_photo4.jpg)
+![Tretiny](./Images/Top_photo4.JPG)
 *obr. 2*
 ### Definícia tímov
 - **Tím 1** – tím, ktorého skóre je na **ľavej strane** ukazovateľa skóre.
@@ -64,11 +65,11 @@ Každým ďalším stlačením **BTNC** sa celý cyklus opakuje od prvej tretiny
 - Pomocou **SW4** je možné úplne resetovať skóre na **00:00**.
 - Pri aktivácii a následnej deaktivácii **SW4** sa skóre vynuluje a ukazovateľ skóre je pripravený na nové použitie.
 
-### [Goals_video](./videos/Goals.mp4)
+### [Goals_video](./Videos/Goals.mp4)
 ---
 
 ### Pridávanie presiloviek
-![Tretiny](./Images/Top_photo5.jpg)
+![Tretiny](./Images/Top_photo5.JPG)
 *obr. 3*
 ### Definícia tímov
 - **Tím 1** – tím, ktorého skóre je na **ľavej strane** ukazovateľa skóre, má vyhradené ledky LD10 - LD14 (tie vľavo).
@@ -88,7 +89,7 @@ Pridávanie funguje tak, že **musí byť zastavený hlavný časovač** (len vt
 - **BTND** – presilovka pre tím 2
 
 V momente udelenia presilovky **zhasne jedna LED-ka** tímu, ktorý bude hrať v oslabení.  
-Každý tím má 5 LED-iek reprezentujúcich 5 hráčov na ľade. Maximálne môžu zhasnúť 2 LED-ky, keďže na ľade musia byť vždy minimálne traja hráči (plus brankár).
+Každý tím má 5 LED-iek reprezentujúcich 5 hráčov na ľade. Maximálne môžu zhasnúť 2 LED-ky, keďže na ľade musia byť vždy minimálne traja hráči okrem brankára.
 
 Po opätovnom spustení času sa začne odpočítavať čas presilovky, avšak **len ak je hlavný časovač spustený**.
 
@@ -114,7 +115,7 @@ Táto funkcionalita je určená na manuálne rušenie presiloviek/oslabení, nap
 - V prípade viacerých presiloviek (viac ako 2) sa časy pribudajúcich presiloviek **sčítavajú**. Štvrtá LED-ka tímu sa rozsvieti až po ukončení predchádzajúcich presiloviek (keď ostane na odpocitanie už len jedna presilovka).
 - **Rušenie presiloviek je možné len pre dvojminútové presilovky**, päťminútové presilovky nie je možné rušiť gólom.
 
-### [Power_plays_video](./videos/Power_plays.mp4)
+### [Power_plays_video](./Videos/Power_plays.mp4)
 
 
 
