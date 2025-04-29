@@ -34,7 +34,7 @@ Prepínanie jednotlivých tretín prebieha stláčaním tlačidla **BTNC** nasle
 
 Každým ďalším stlačením **BTNC** sa celý cyklus opakuje od prvej tretiny.
 
-### [Tretiny_video](./videos/Thirds.mp4)
+### [Tretiny_video](./Videos/Thirds.mp4)
 ---
 ## Goal Counter
 ![Tretiny](./Images/Top_photo4.JPG)
@@ -115,7 +115,7 @@ Táto funkcionalita je určená na manuálne rušenie presiloviek/oslabení, nap
 - V prípade viacerých presiloviek (viac ako 2) sa časy pribudajúcich presiloviek **sčítavajú**. Štvrtá LED-ka tímu sa rozsvieti až po ukončení predchádzajúcich presiloviek (keď ostane na odpocitanie už len jedna presilovka).
 - **Rušenie presiloviek je možné len pre dvojminútové presilovky**, päťminútové presilovky nie je možné rušiť gólom.
 
-### [Power_plays_video](./videos/Power_plays.mp4)
+### [Power_plays_video](./Videos/Power_plays.mp4)
 
 
 
