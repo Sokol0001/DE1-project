@@ -19,7 +19,7 @@ Výber aktuálnej hranej tretiny prebieha pomocou tlačidla **BTNC**.
 
 Pri spustení dosky je automaticky nastavená **prvá tretina** s trvaním **20 minút**, ktorá je signalizovaná **modrým svetlom na LED LD16**.
 
-![Tretiny](./Images/Top_photo3.jpg)
+![Tretiny](./Images/Top_photo3.JPG)
 *obr. 1*
 
 
