@@ -19,7 +19,7 @@ Výber aktuálnej hranej tretiny prebieha pomocou tlačidla **BTNC**.
 
 Pri spustení dosky je automaticky nastavená **prvá tretina** s trvaním **20 minút**, ktorá je signalizovaná **modrým svetlom na LED LD16**.
 
-![Tretiny](./Images/Top_photo3.jpg)
+![Tretiny](./Images/Top_photo3.LPG)
 *obr. 1*
 
 
@@ -37,7 +37,7 @@ Každým ďalším stlačením **BTNC** sa celý cyklus opakuje od prvej tretiny
 ### [Tretiny_video](./videos/Thirds.mp4)
 ---
 ## Goal Counter
-![Tretiny](./Images/Top_photo4.jpg)
+![Tretiny](./Images/Top_photo4.JPG)
 *obr. 2*
 ### Definícia tímov
 - **Tím 1** – tím, ktorého skóre je na **ľavej strane** ukazovateľa skóre.
@@ -69,7 +69,7 @@ Každým ďalším stlačením **BTNC** sa celý cyklus opakuje od prvej tretiny
 ---
 
 ### Pridávanie presiloviek
-![Tretiny](./Images/Top_photo5.jpg)
+![Tretiny](./Images/Top_photo5.JPG)
 *obr. 3*
 ### Definícia tímov
 - **Tím 1** – tím, ktorého skóre je na **ľavej strane** ukazovateľa skóre, má vyhradené ledky LD10 - LD14 (tie vľavo).
