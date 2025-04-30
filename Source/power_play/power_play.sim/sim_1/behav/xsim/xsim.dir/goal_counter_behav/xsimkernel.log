@@ -1,7 +1,0 @@
-Running: xsim.dir/goal_counter_behav/xsimk.exe -simmode gui -wdb goal_counter_behav.wdb -simrunnum 0 -socket 62357
-Design successfully loaded
-Design Loading Memory Usage: 7692 KB (Peak: 7692 KB)
-Design Loading CPU Usage: 15 ms
-Simulation completed
-Simulation Memory Usage: 8116 KB (Peak: 8116 KB)
-Simulation CPU Usage: 46 ms
