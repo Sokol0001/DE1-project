@@ -178,33 +178,32 @@ Displeje sa používajú na zobrazovanie:
 
 ---
 
-
 ## Zdrojové kódy
 
 Projekt obsahuje nasledovné hlavné komponenty:
 
-- **`timer.vhd`** – časovač  
+- [**`timer.vhd`**](https://github.com/Sokol0001/DE1-project/blob/main/Source/timer.vhd) – časovač  
   Generuje základné časové impulzy pre odpočítavanie času tretín a presiloviek.
 
-- **`goal_counter.vhd`** – počítadlo skóre  
+- [**`goal_counter.vhd`**](https://github.com/Sokol0001/DE1-project/blob/main/Source/goal_counter.vhd) – počítadlo skóre  
   Správa pridávania, uberania a resetovania skóre tímov.
 
-- **`power_play.vhd`** – správa presiloviek  
+- [**`power_play.vhd`**](https://github.com/Sokol0001/DE1-project/blob/main/Source/power_play.vhd) – správa presiloviek  
   Rieši logiku pridávania, rušenia a správy stavu presiloviek.
 
-- **`dyn_seg.vhd`** – ovládač sedemsegmentového displeja  
+- [**`dyn_seg.vhd`**](https://github.com/Sokol0001/DE1-project/blob/main/Source/dyn_seg.vhd) – ovládač sedemsegmentového displeja  
   Multiplexné zobrazovanie čísel na štvormiestnom displeji.
 
-- **`bin2seg.vhd`** – prevodník binárneho čísla na sedemsegmentový kód  
+- [**`bin2seg.vhd`**](https://github.com/Sokol0001/DE1-project/blob/main/Source/bin2seg.vhd) – prevodník binárneho čísla na sedemsegmentový kód  
   Zabezpečuje konverziu binárneho čísla na správne zobrazovanie číslic.
 
-- **`debounce.vhd`, `debounce2.vhd`, `debounce3.vhd`** – stabilizácia tlačidiel  
-  Odstraňujú zákmity signálu z mechanických tlačidiel (pre BTNU, BTND, BTNC, BTNL, BTNR).
+- [**`debounce.vhd`**](https://github.com/Sokol0001/DE1-project/blob/main/Source/debounce.vhd) – stabilizácia tlačidiel  
+  Odstraňuje zákmity signálu z mechanických tlačidiel (pre BTNU, BTND, BTNC, BTNL, BTNR).
 
-- **`clock_en.vhd`** – generátor hodinového povolenia  
+- [**`clock_en.vhd`**](https://github.com/Sokol0001/DE1-project/blob/main/Source/clock_en.vhd) – generátor hodinového povolenia  
   Znižuje frekvenciu hlavného hodinového signálu na požadovanú frekvenciu pre logiku systému.
 
-- **`top_level.vhd`** – hlavný riadiaci komponent  
+- [**`top_level.vhd`**](https://github.com/Sokol0001/DE1-project/blob/main/Source/top_level.vhd) – hlavný riadiaci komponent  
   Integruje všetky vyššie uvedené komponenty a riadi celý chod systému vrátane prepínania tretín, riadenia presiloviek a správy skóre.
 
 
