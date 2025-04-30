@@ -136,6 +136,8 @@ Každý hlavný modul bol simulovaný samostatne s cieľom overiť správnosť j
 ![Simulacie](./Images/Goal.png)
 *obr. 5*
 
+# Ďalšie simulácie:
+
 ### [Simulations_goal_counter](./Simulations/simulacie_goal_counter.pdf)
 
 ### [Simulations_power_play](./Simulations/simulacie_power_play.pdf)
